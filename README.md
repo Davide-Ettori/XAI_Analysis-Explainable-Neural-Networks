@@ -9,6 +9,7 @@ This research aims to analyze the main techniques of XAI (Explainable Artificial
 
 <br><br>
 **SHAP (SHapley Additive exPlanations) is a game theory approach to explain the output of any machine learning model.** In this case, it's applied to the California Housing Dataset for regression and is able to distinguish which parts of the data are important and which are not.  The neural network (ANN) is implemented using the Tensorflow library and specifically the layers available in Keras. Finally, various graphs are shown explaining the contribution of each feature, both positive and negative, and how they interact with each other towards the final prediction. This is one of the most general tecniques and it can be similarly utilized for other types of problems as well.
+
 ![Screenshot 2024-02-20 alle 09 28 52](https://github.com/Davide-Ettori/XAI_Research-Explainable-Neural-Networks/assets/52358285/1f4acf94-6cde-4c2d-b7fe-b9ee9b5ffb3f)
 
 <br><br>
