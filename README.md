@@ -13,4 +13,5 @@ This research aims to analyze the main techniques of XAI (Explainable Artificial
 
 <br><br>
 **EBM (Explainable Boosting Machines).** In this notebook, you'll see how to implement a decision tree from scratch for both binary and multiclass classification problems. This is the typical machine learning model used when it's important to understand the reasoning of the algorithm, as it allows drawing the tree and its various branches where each feature is analyzed. Entropy measurement is done using the Gini coefficient. The final decision tree, modeled as a nested hash map, can be used both for prediction and for analyzing the weight of each feature. This approach can be enhanced with Bagging and Boositng, giving life to the famous Random Forest Algotithm.
-![Decision Tree](https://github.com/Davide-Ettori/XAI_Research-Explainable-Neural-Networks/assets/52358285/b623e4dd-02a8-4a80-8535-61d47e0a4e4b)
+![Decision Tree](https://github.com/Davide-Ettori/XAI_Research-Explainable-Neural-Networks/assets/52358285/0c1b8f86-3ae8-4b4a-abf2-4fa527b743f3)
+
